@@ -1,0 +1,9 @@
+body {
+    background:url('bg.png');
+    margin: 0 auto;
+    text-align: center;
+}
+
+.jumbotron {
+    margin-top: 100px;
+}
